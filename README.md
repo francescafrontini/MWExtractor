@@ -8,6 +8,7 @@ http://www.panacea-lr.eu/
 
 
 "src" contains the java sources
+
 "dirtest" contains some files that you can test the extractor with (already in the right format)
 
 "estrattore.properties" is the config file
