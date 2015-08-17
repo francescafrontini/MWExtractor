@@ -3,7 +3,7 @@
 This MWExtractor was created within the PANACEA project:
 http://www.panacea-lr.eu/
 
- * @author Valeria Quochi @author Francesca Frontini @author Francesco Rubino
+ * Authors: Francesco Rubino, Francesca Frontini, Valeria Quochi
  * Istituto di linguistica Computazionale "A. Zampolli" - CNR Pisa - Italy
 
 
